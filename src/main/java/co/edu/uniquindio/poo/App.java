@@ -77,7 +77,8 @@ public class App {
     // Mostrar detalles de la biblioteca
     System.out.println("Detalles de la Biblioteca:");
     biblioteca.mostrarDetalles();
-    System.out.println();        
+    System.out.println();    
+        
     // Mostrar detalles de los libros
     System.out.println("Detalles de los Libros:");
         for (Libro libro : listaLibros){

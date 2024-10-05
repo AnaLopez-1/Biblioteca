@@ -18,7 +18,6 @@ public class Prestamo {
     }
 
     public Prestamo(String fechaDevolucion, String fechaPrestamo, List<Bibliotecario> listaBibliotecarios, Estudiante estudiante2) {
-        //TODO Auto-generated constructor stub
     }
 
     public String getFechaDevolucion() {
